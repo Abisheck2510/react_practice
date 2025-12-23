@@ -1,0 +1,164 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "user": {
+                "id": 101,
+                "username": "john_doe",
+                "profile_pic": "https://i.pravatar.cc/150?img=1"
+            },
+            "image": "https://picsum.photos/600/600?random=101",
+            "caption": "Beautiful sunset 🌅 #Nature",
+            "likes": 120,
+            "isLiked": false,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "alice_wonder",
+                    "comment": "Wow! Amazing shot! 📸"
+                },
+                {
+                    "id": 2,
+                    "user": "mark_92",
+                    "comment": "Where is this place?"
+                }
+            ],
+            "timestamp": "2025-02-11T14:30:00Z"
+        },
+        {
+            "id": 2,
+            "user": {
+                "id": 102,
+                "username": "react_dev",
+                "profile_pic": "https://i.pravatar.cc/150?img=5"
+            },
+            "image": "https://picsum.photos/600/600?random=102",
+            "caption": "Working on my Instagram clone using React 🔥",
+            "likes": 245,
+            "isLiked": true,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "john_doe",
+                    "comment": "Looks awesome 👏"
+                }
+            ],
+            "timestamp": "2025-02-12T09:15:00Z"
+        },
+        {
+            "id": 3,
+            "user": {
+                "id": 103,
+                "username": "travel_queen",
+                "profile_pic": "https://i.pravatar.cc/150?img=8"
+            },
+            "image": "https://picsum.photos/600/600?random=103",
+            "caption": "Lost in the mountains 🏔️✨",
+            "likes": 389,
+            "isLiked": false,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "john_doe",
+                    "comment": "This view is insane 😍"
+                },
+                {
+                    "id": 2,
+                    "user": "nature_fan",
+                    "comment": "Nature at its best 🌿"
+                }
+            ],
+            "timestamp": "2025-02-13T06:45:00Z"
+        },
+        {
+            "id": 4,
+            "user": {
+                "id": 104,
+                "username": "foodie_life",
+                "profile_pic": "https://i.pravatar.cc/150?img=12"
+            },
+            "image": "https://picsum.photos/600/600?random=104",
+            "caption": "Homemade pasta 🍝❤️",
+            "likes": 512,
+            "isLiked": true,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "react_dev",
+                    "comment": "Looks delicious 🤤"
+                },
+                {
+                    "id": 2,
+                    "user": "chef_master",
+                    "comment": "Perfect texture!"
+                }
+            ],
+            "timestamp": "2025-02-13T12:10:00Z"
+        },
+        {
+            "id": 5,
+            "user": {
+                "id": 105,
+                "username": "gym_rat",
+                "profile_pic": "https://i.pravatar.cc/150?img=15"
+            },
+            "image": "https://picsum.photos/600/600?random=105",
+            "caption": "No excuses. Just results 💪🔥",
+            "likes": 274,
+            "isLiked": false,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "john_doe",
+                    "comment": "Respect 💯"
+                }
+            ],
+            "timestamp": "2025-02-14T05:30:00Z"
+        },
+        {
+            "id": 6,
+            "user": {
+                "id": 106,
+                "username": "code_daily",
+                "profile_pic": "https://i.pravatar.cc/150?img=20"
+            },
+            "image": "https://picsum.photos/600/600?random=106",
+            "caption": "Debugging at 2 AM ☕💻",
+            "likes": 198,
+            "isLiked": false,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "react_dev",
+                    "comment": "Story of my life 😅"
+                },
+                {
+                    "id": 2,
+                    "user": "python_guy",
+                    "comment": "Coffee is mandatory ☕"
+                }
+            ],
+            "timestamp": "2025-02-14T22:00:00Z"
+        },
+        {
+            "id": 7,
+            "user": {
+                "id": 107,
+                "username": "street_photography",
+                "profile_pic": "https://i.pravatar.cc/150?img=25"
+            },
+            "image": "https://picsum.photos/600/600?random=107",
+            "caption": "City lights at night 🌃",
+            "likes": 431,
+            "isLiked": true,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "travel_queen",
+                    "comment": "Love this vibe ✨"
+                }
+            ],
+            "timestamp": "2025-02-15T19:40:00Z"
+        }
+    ]
+}

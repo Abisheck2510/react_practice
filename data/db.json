@@ -159,6 +159,159 @@
                 }
             ],
             "timestamp": "2025-02-15T19:40:00Z"
+        },
+        {
+            "id": 8,
+            "user": {
+                "id": 108,
+                "username": "minimalist_home",
+                "profile_pic": "https://i.pravatar.cc/150?img=30"
+            },
+            "image": "https://picsum.photos/600/600?random=108",
+            "caption": "Less is more 🌿✨",
+            "likes": 156,
+            "isLiked": false,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "alice_wonder",
+                    "comment": "So clean!"
+                }
+            ],
+            "timestamp": "2025-02-16T10:20:00Z"
+        },
+        {
+            "id": 9,
+            "user": {
+                "id": 109,
+                "username": "dog_lover",
+                "profile_pic": "https://i.pravatar.cc/150?img=35"
+            },
+            "image": "https://picsum.photos/600/600?random=109",
+            "caption": "My best friend 🐶❤️",
+            "likes": 620,
+            "isLiked": true,
+            "comments": [
+                {
+                    "id": 1,
+                    "user": "john_doe",
+                    "comment": "So cute!"
+                }
+            ],
+            "timestamp": "2025-02-16T15:45:00Z"
+        }
+    ],
+    "profile": {
+        "id": 1,
+        "username": "john_doe",
+        "profile_pic": "https://i.pravatar.cc/150?img=1"
+    },
+    "suggestions": [
+        {
+            "id": 1,
+            "username": "john_doe",
+            "profile_pic": "https://i.pravatar.cc/150?img=1"
+        },
+        {
+            "id": 2,
+            "username": "jane_smith",
+            "profile_pic": "https://i.pravatar.cc/150?img=2"
+        },
+        {
+            "id": 3,
+            "username": "mike_ross",
+            "profile_pic": "https://i.pravatar.cc/150?img=3"
+        },
+        {
+            "id": 4,
+            "username": "sarah_connor",
+            "profile_pic": "https://i.pravatar.cc/150?img=4"
+        },
+        {
+            "id": 5,
+            "username": "jim_brown",
+            "profile_pic": "https://i.pravatar.cc/150?img=5"
+        },
+        {
+            "id": 6,
+            "username": "lisa_white",
+            "profile_pic": "https://i.pravatar.cc/150?img=6"
+        },
+        {
+            "id": 7,
+            "username": "david_jones",
+            "profile_pic": "https://i.pravatar.cc/150?img=7"
+        },
+        {
+            "id": 8,
+            "username": "emilyDavis",
+            "profile_pic": "https://i.pravatar.cc/150?img=8"
+        }
+    ],
+    "stories": [
+        {
+            "id": 1,
+            "username": "abi",
+            "profilePic": "https://i.pravatar.cc/150?img=1",
+            "storyImage": "https://picsum.photos/300/500?random=1",
+            "isViewed": false,
+            "time": "2h ago"
+        },
+        {
+            "id": 2,
+            "username": "karthik",
+            "profilePic": "https://i.pravatar.cc/150?img=2",
+            "storyImage": "https://picsum.photos/300/500?random=2",
+            "isViewed": true,
+            "time": "5h ago"
+        },
+        {
+            "id": 3,
+            "username": "meena",
+            "profilePic": "https://i.pravatar.cc/150?img=3",
+            "storyImage": "https://picsum.photos/300/500?random=3",
+            "isViewed": false,
+            "time": "1h ago"
+        },
+        {
+            "id": 4,
+            "username": "sarah_connor",
+            "profilePic": "https://i.pravatar.cc/150?img=4",
+            "storyImage": "https://picsum.photos/300/500?random=4",
+            "isViewed": true,
+            "time": "2h ago"
+        },
+        {
+            "id": 5,
+            "username": "jim_brown",
+            "profilePic": "https://i.pravatar.cc/150?img=5",
+            "storyImage": "https://picsum.photos/300/500?random=5",
+            "isViewed": false,
+            "time": "1h ago"
+        },
+        {
+            "id": 6,
+            "username": "lisa_white",
+            "profilePic": "https://i.pravatar.cc/150?img=6",
+            "storyImage": "https://picsum.photos/300/500?random=6",
+            "isViewed": true,
+            "time": "2h ago"
+        },
+        {
+            "id": 7,
+            "username": "david_jones",
+            "profilePic": "https://i.pravatar.cc/150?img=7",
+            "storyImage": "https://picsum.photos/300/500?random=7",
+            "isViewed": false,
+            "time": "1h ago"
+        },
+        {
+            "id": 8,
+            "username": "emilyDavis",
+            "profilePic": "https://i.pravatar.cc/150?img=8",
+            "storyImage": "https://picsum.photos/300/500?random=8",
+            "isViewed": true,
+            "time": "2h ago"
         }
     ]
 }

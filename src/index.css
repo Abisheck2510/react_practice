@@ -1,3 +1,7 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 .w-20 {
   width: 20%;
 }
@@ -12,4 +16,48 @@
 
 .bi {
   margin-right: 15px;
+}
+
+.story {
+  height: 80px;
+}
+
+
+.dp {
+  width: 25px;
+  height: 25px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.post-image {
+  width: 350px;
+  height: 400px;
+}
+
+.icon-bold {
+  font-size: 1.5rem;
+  stroke-width: 2;
+}
+
+.w-65 {
+  width: 65%;
+}
+
+.suggestions h5 {
+  font-size: 1rem;
+}
+
+.suggestions .dp {
+  margin-top: 0px !important;
+}
+
+.gradient-border {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
 }

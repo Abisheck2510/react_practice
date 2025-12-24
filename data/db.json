@@ -296,22 +296,6 @@
             "storyImage": "https://picsum.photos/300/500?random=6",
             "isViewed": true,
             "time": "2h ago"
-        },
-        {
-            "id": 7,
-            "username": "david_jones",
-            "profilePic": "https://i.pravatar.cc/150?img=7",
-            "storyImage": "https://picsum.photos/300/500?random=7",
-            "isViewed": false,
-            "time": "1h ago"
-        },
-        {
-            "id": 8,
-            "username": "emilyDavis",
-            "profilePic": "https://i.pravatar.cc/150?img=8",
-            "storyImage": "https://picsum.photos/300/500?random=8",
-            "isViewed": true,
-            "time": "2h ago"
         }
     ]
 }
